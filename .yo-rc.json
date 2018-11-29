@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "GuideMarket",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "OGNjYTRlNTc5MmI1MDFkYmY1ODMwN2M0NTAzZmNmN2UwYmVmZjJlN2UyOTViMmNlYmFlMzU1Yzk4MWZhYjdiODcwYzIxNjk3ZjM0MmRhNjkzNzIzOWE4NWFlNmE1OTQwOTMyZDA0NzkyZjkxNzU1ODFkNmVmNThmOGNkYWNiZTU=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "leandrosanchez0224",
+  "repository-name": "jhipster-guide-market"
+}
